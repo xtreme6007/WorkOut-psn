@@ -49,8 +49,8 @@ N/A
 
 
 ## Screen shots
-![screenshot](/assets/imgs/Workout1.png)
-![screenshot](/assets/imgs/Workout2.png)
+![screenshot](public/assets/imgs/Workout1.png)
+![screenshot](public/assets/imgs/Workout2.png)
 
 
 
