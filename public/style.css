@@ -386,6 +386,7 @@ form > button {
 
 .workout .ui.card {
   padding-top: 25px;
+  border-radius: 87px;
 }
 
 .prev-workout {
@@ -396,11 +397,13 @@ form > button {
   display: flex;
   height: 75px;
   margin-top: 30px;
+ 
 }
 
 .buttons .ui.button {
   margin: 0;
   width: 50%;
+  border-radius:87px;
 }
 
 .ui.card h2 {
