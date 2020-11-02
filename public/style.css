@@ -104,6 +104,7 @@ input {
 .m-auto {
   margin: 0 auto;
   width: 500px;
+  
 }
 
 form .workout-type,
@@ -136,6 +137,7 @@ form::after {
 .exercise .ui.card {
   width: 400px;
   max-width: 600px;
+  
 }
 
 .exercise .buttons {
